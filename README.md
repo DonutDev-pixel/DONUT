@@ -38,4 +38,8 @@ ani = FuncAnimation(fig, update, frames=np.arange(0, 360, 2), interval=50)
 
 plt.show()
 
-#Or simply ask AI
+
+
+
+#Simply ask Ai
+
